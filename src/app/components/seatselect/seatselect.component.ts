@@ -6,7 +6,7 @@ import { Passenger } from 'src/app/models/Passenger';
 import { Ticket } from 'src/app/models/Ticket';
 import {  flight } from 'src/app/models/flight';
 import {TicketService} from 'src/app/services/ticket.service';
-
+//decorators
 @Component({
   selector: 'app-seatselect',
   templateUrl: './seatselect.component.html',
