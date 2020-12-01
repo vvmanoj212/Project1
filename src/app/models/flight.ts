@@ -1,3 +1,4 @@
+// For One-Way Flight
 export class flight
 {  
 FlightId:string;
@@ -9,6 +10,8 @@ Duration:string;
 EconomyPrice:number;
 BusinessPrice:number;
 }
+
+//For Return Flight
 export class flight1
 {
 FlightId:string;
